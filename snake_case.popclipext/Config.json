@@ -1,0 +1,12 @@
+{
+  "Actions" : [
+    {
+      "After" : "paste-result",
+      "Title" : "Snakecase"
+    }
+  ],
+  "Extension Description" : "Make the selected text snakecase.",
+  "Extension Identifier" : "com.r4y.popclip.extension.snakecase",
+  "Extension Name" : "Snakecase",
+  "popclipVersion" : 3785
+}
